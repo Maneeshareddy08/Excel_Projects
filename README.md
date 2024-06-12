@@ -13,5 +13,6 @@ Objective:
 
 5.Interpretation and Insights:Analyze the results of the data analysis and draw meaningful conclusions.Provide actionable insights and recommendations based on the findings.
 
+<img width="908" alt="Screenshot 2024-06-11 at 8 27 48 PM" src="https://github.com/Maneeshareddy08/Excel_Projects/assets/151414056/28721e56-5829-44b2-b893-83eb1e4280dc">
 
 
